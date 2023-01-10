@@ -1,2 +1,2 @@
-# wdd-130-gehring
+# Peter Gehring
 Winter-2023-wdd-130
