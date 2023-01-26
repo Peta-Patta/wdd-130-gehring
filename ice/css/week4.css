@@ -1,0 +1,38 @@
+:root {
+    --bg-color:pink;
+    --primary-font-color: #000;
+    --secondary-font-color: #fff;
+
+}
+
+body {
+    background-color: var(--bg-color);
+}
+
+main {
+    max-width: 500px;
+    margin: 0 auto;
+
+}
+
+h1 {
+    color: var(--secondary-font-color);
+    text-align: center;
+}
+
+
+blockquote {
+    color: var(--secondary-font-color);
+    text-align: center;
+
+}
+
+
+img{
+    max-width: 100%;
+}
+
+ol {
+    font-weight: bold;
+}
+
