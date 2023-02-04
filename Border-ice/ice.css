@@ -1,0 +1,26 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+header {
+    background-image: url(images/banner.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 60%;
+}
+main{
+    background-color: #737373;
+    padding: 100px;
+    height: 25%;
+    text-align: center;
+}
+img{
+    display: inline-block;
+    max-height: 180px;
+    border-radius: 50%;
+    border: 7px solid; border-color: #444;
+    margin: 15px 45px;
+}
