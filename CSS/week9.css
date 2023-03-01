@@ -1,0 +1,10 @@
+
+.footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto;
+}
+footer .bottom{
+    text-transform: uppercase;
+    font-size: 16px;
+}
