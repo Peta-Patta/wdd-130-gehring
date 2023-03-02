@@ -81,6 +81,15 @@ p {
   height: 3em;
 }
 
+.primary, class{
+  color: #ededed;
+}
+.accent1, class{
+  color: #e7e7e7;
+}
+.accent2, class{
+  color: #f9f9f9;
+}
 .primary {
   background-color: var(--primary-color);
 }
